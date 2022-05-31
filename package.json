@@ -1,7 +1,7 @@
 {
-  "name": "to-dolist",
+  "name": "project name",
   "version": "1.0.0",
-  "description": "simple to-do list",
+  "description": "desc",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config webpack.config.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whid-bb/to-do-list.git"
+    "url": "git+repo"
   },
   "author": "whid-bb",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/whid-bb/to-do-list/issues"
+    "url": "repo/issues"
   },
-  "homepage": "https://github.com/whid-bb/to-do-list#readme",
+  "homepage": "repo#readme",
   "devDependencies": {
     "@babel/preset-env": "^7.18.2",
     "babel-eslint": "^10.1.0",
